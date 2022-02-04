@@ -1,0 +1,44 @@
+1.
+A list is created by placing elements inside square brackets which is seperated by commas.A list can have any numbers of items
+and can be of different types ie integer,float, string,etc.
+2.
+spam[2]="hello".
+3.
+ '3' * 2 is the string '33', which is passed to int() before being divided by 11. This eventually evaluates to 3. Expressions can be used wherever values are used.)
+4.
+Python cannot calculate a negative number .
+5.
+The digit two in the brackets should have another number in front of the double dots For the following three questions, for example,
+ bacon contains the list [3.14, 'cat', 11, 'cat', True].
+6.
+ A list of a returned value.
+7.
+A added value in a list. 
+8.
+Let's say bacon contains the list [3.14, 'cat', 11, 'cat', True].
+9.
+ A chain of functions len , def, ad listing replication distribut character commands . 
+10.
+Means Modify.
+11.
+ A / or a del function.
+12.
+A list is an ordered set of values, where each value is identified by an index.
+ The values that make up a list are called its elements.
+ Lists are similar to strings which are order sets of characters, except that the elements of a list can have any type.
+whereas lists and strings  and other things that behave like ordered sets are called sequences.
+13.
+List of single text characters ,indexing, slicing, and using them for loops with Len Brackets and parenthesis differtiate the two.
+14.
+With parens for exemplar eggs = (‘42’) .
+15.
+By placing a comma after the value inside the paren for retrieving .
+16.
+They contain References bit of data.
+17.
+ Copy.copy makes duplicate copies whwreas deepcopy() copies the inner list as well thought both similar.
+
+
+
+
+
